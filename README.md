@@ -2,6 +2,8 @@ Amaç ve Genel Yapı
 
 RabbitMQ kuyruğu yöneticisi yapay zekadan yardım alınarak yapılmıştır. RabbitMQ API'sini kullanarak kuyrukları listeler, gruplar, siler ve mesajları temizler. Kullanıcı dostu bir arayüz ile PowerShell içerisinde çalışır. Kod; kullanıcıdan bağlantı bilgilerini alır, API üzerinden kuyruk verilerini çeker ve XAML tabanlı bir arayüzde bu verileri sunar.
 
+NOT = Staj ortamındakı veriler ile calısılmıştır
+
 
 Eng
 
